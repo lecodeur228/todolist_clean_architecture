@@ -1,0 +1,4 @@
+
+class ServerException {}
+
+class CacheException {}
